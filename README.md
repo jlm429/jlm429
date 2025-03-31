@@ -41,7 +41,7 @@
 - Open-source software  
 - Curriculum design and teaching  
 - Mentoring students and early-career professionals  
-- Reading, Music (piano, guitar), hiking, snowboarding, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
+- Reading, music (piano, guitar), hiking, snowboarding, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
 
 
 *Feel free to reach out if you're interested in collaboration, teaching, or just chatting.*
