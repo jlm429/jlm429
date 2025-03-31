@@ -1,7 +1,7 @@
 ## Short CV
 
 **09/2024 - now** - Course Facilitator, eCornell (Python, Data Science, and Machine Learning)  
-**08/2023 - now** - Instructional Associate, Georgia Tech (CS7641, CS7642: Graduate Machine Learning, Graduate Reinforcement Learning)  
+**08/2019 - now** - Instructional Associate, Georgia Tech (CS7641, CS7642: Graduate Machine Learning, Graduate Reinforcement Learning)  
 **01/2024 - now** - Adjunct Instructor, SUNY Broome (C++, curriculum development)  
 **2005 - 2012** - Software Developer, various roles (education, data-centric applications, open source)  
 **2018** - M.S. in Computer Science, Georgia Institute of Technology  
@@ -10,7 +10,7 @@
 ## Open Source Contributions
 
 - Maintainer of:  
-  - [`bettermdptools`](https://github.com/jlm429/bettermdptools) - planning and reinforcement learning algorithms, plots, and environment models for use with Gymnasium  
+  - [`bettermdptools`](https://github.com/jlm429/bettermdptools) - planning and reinforcement learning algorithms and environment models for use with Gymnasium  
   - [`pyperch`](https://github.com/jlm429/pyperch) - randomized optimization neural networks in Python  
 
 - Contributor to:  
