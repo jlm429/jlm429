@@ -28,15 +28,11 @@
 - Georgia Tech (Machine Learning, Reinforcement Learning)  
 - SUNY Broome (C++ curriculum design and instruction)  
 
----
-
 ## Profiles
 
 - GitHub: [jlm429](https://github.com/jlm429)  
 - LinkedIn: [john-mansfield](https://www.linkedin.com/in/jlm429/)  
 - Email: jm2935@cornell.edu  
-
----
 
 ## Interests
 
@@ -45,8 +41,7 @@
 - Open-source software  
 - Curriculum design and teaching  
 - Mentoring students and early-career professionals  
-- Music (piano, guitar), nature, chess, and crossword puzzles  
+- Music (piano, guitar), nature, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
 
----
 
 *Feel free to reach out if you're interested in collaboration, teaching, or just chatting.*
