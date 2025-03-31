@@ -7,8 +7,6 @@
 **2018** — M.S. in Computer Science, Georgia Institute of Technology  
 **2005** — B.S. in Computer Science, State University of New York at Buffalo  
 
----
-
 ## Open Source Contributions
 
 - Maintainer of:  
@@ -19,12 +17,10 @@
   - [`ABAGAIL`](https://github.com/pushkar/ABAGAIL) – Java-based ML toolkit  
     - [Refactored neural network codebase for cleaner, more modular configuration](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/OptNetworkBuilder.java)  
     - [Integrated Prim’s MST implementation to improve dependency modeling in MIMIC optimization](https://github.com/pushkar/ABAGAIL/blob/master/src/util/graph/PrimsMST.java)  
-    - [Developed a full implementation of the Adam optimizer using Kingma & Ba’s 2014 paper](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
+    - [Developed a full implementation of the Adam optimizer from scratch using Kingma & Ba’s 2014 pseudocode](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
   - [`mlrose-hiive`](https://github.com/hiive/mlrose-hiive) – optimization algorithms for machine learning  
+  - Other contributions to Python/data science tools and course infrastructure  
 
-- Other contributions to Python/data science tools and course infrastructure  
-
----
 
 ## Talks & Teaching
 
