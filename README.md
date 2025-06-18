@@ -12,6 +12,7 @@
 - Maintainer of:  
   - [`bettermdptools`](https://github.com/jlm429/bettermdptools) - planning and reinforcement learning algorithms and environment models for use with Gymnasium  
   - [`pyperch`](https://github.com/jlm429/pyperch) - randomized optimization neural networks in Python  
+  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - a sandbox for building smarter LLM applications using LangChain, LangGraph, and RAG pipelines
 
 - Contributor to:  
   - [`ABAGAIL`](https://github.com/pushkar/ABAGAIL) - Java-based ML toolkit  
