@@ -37,7 +37,7 @@
 
 ## Interests
 
-- AI, Machine Learning, and Reinforcement Learning  
+- AI, LLMs, Machine Learning, and Reinforcement Learning  
 - Python, scikit-learn, PyTorch  
 - Open-source software  
 - Curriculum design and teaching  
