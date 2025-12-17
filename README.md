@@ -2,7 +2,7 @@
 
 **09/2024 - now** - Course Facilitator, eCornell (Python, Data Science, and Machine Learning)  
 **08/2019 - now** - Instructional Associate, Georgia Tech (CS7641, CS7642: Graduate Machine Learning, Graduate Reinforcement Learning)  
-**01/2024 - now** - Adjunct Instructor, SUNY Broome (C++, curriculum development)  
+**01/2024 - now** - Adjunct Instructor, SUNY Broome (C++, Object-oriented programming)  
 **2005 - 2012** - Software Developer, various roles (education, data-centric applications, open source)  
 **2018** - M.S. in Computer Science, Georgia Institute of Technology  
 **2005** - B.S. in Computer Science, State University of New York at Buffalo  
@@ -27,7 +27,7 @@
 
 - eCornell (Python, Data Science, Machine Learning, AI in Business)  
 - Georgia Tech (Machine Learning, Reinforcement Learning)  
-- SUNY Broome (C++ curriculum design and instruction)  
+- SUNY Broome (C++, OOP)  
 
 ## Profiles
 
