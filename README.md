@@ -37,7 +37,7 @@
 
 ## Interests
 
-- AI, LLMs, Game Theory, Machine Learning, and Reinforcement Learning  
+- AI, LLMs, Game Theory, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
 - Python, scikit-learn, PyTorch  
 - Open-source software  
 - Curriculum design and teaching  
