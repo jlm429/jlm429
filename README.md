@@ -1,7 +1,7 @@
 ## Short CV
 
 **08/2019 - now** - Instructional Associate, Georgia Tech (Graduate Machine Learning, Graduate Reinforcement Learning, NVIDIA Sponsored Training Seminars in Agentic AI and Deep Learning)  
-**09/2024 - now** - Course Facilitator, eCornell (Python, Data Science, and Machine Learning) 
+**09/2024 - now** - Course Facilitator, eCornell (Python, Data Science, and Machine Learning)   
 **01/2025 - now** - Adjunct Instructor, SUNY Broome (C++, Object-oriented programming)  
 **2005 - 2012** - Software Developer, various roles (education, data-centric applications, open source)  
 **2018** - M.S. in Computer Science, Georgia Institute of Technology  
