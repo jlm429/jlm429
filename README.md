@@ -26,21 +26,19 @@
 ## Talks & Teaching
 
 - eCornell (Python, Data Science, Machine Learning, AI in Business)  
-- Georgia Tech (Machine Learning, Reinforcement Learning)  
+- Georgia Tech (Machine Learning, Reinforcement Learning, Deep Learning, Agentic AI)  
 - SUNY Broome (C++, OOP)  
 
 ## Profiles
 
 - GitHub: [jlm429](https://github.com/jlm429)  
-- LinkedIn: [john-mansfield](https://www.linkedin.com/in/jlm429/)  
+- LinkedIn: [jlm429](https://www.linkedin.com/in/jlm429/)  
 - Email: jm2935@cornell.edu  
 
 ## Interests
 
-- AI, LLMs, Game Theory, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
-- Python, scikit-learn, PyTorch  
-- Open-source software  
-- Curriculum design and teaching  
+- AI, LLMs, Game Theory, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning 
+- Open-source software   
 - Mentoring students and early-career professionals  
 - Reading, music (piano, guitar), hiking, snowboarding, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
 
