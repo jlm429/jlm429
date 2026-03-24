@@ -40,7 +40,7 @@
 - AI, LLMs, Game Theory, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning 
 - Open-source software   
 - Mentoring students and early-career professionals  
-- Reading, music (piano, guitar), hiking, snowboarding, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
+- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
 
 
 *Feel free to reach out if you're interested in collaboration, teaching, or just chatting.*
