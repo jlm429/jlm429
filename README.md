@@ -39,7 +39,7 @@
 
 - AI, LLMs, Game Theory, Signaling Games, Cooperative Equilibria, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
 - Mentoring students and early-career professionals  
-- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles.*
+- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles.
 
 
 *Feel free to reach out if you're interested in collaboration.*
