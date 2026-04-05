@@ -25,7 +25,7 @@
 
 ## Talks & Teaching
 
-- eCornell (Python, Data Science, Machine Learning, AI in Business)  
+- eCornell (Python, Data Science, Machine Learning, AI)  
 - Georgia Tech (Machine Learning, Reinforcement Learning, Deep Learning, Agentic AI)  
 - SUNY Broome (C++, OOP)  
 
@@ -37,10 +37,9 @@
 
 ## Interests
 
-- AI, LLMs, Game Theory, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning 
-- Open-source software   
+- AI, LLMs, Game Theory, Signaling Games, Cooperative Equilibria, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
 - Mentoring students and early-career professionals  
-- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles - and my latest puzzle obsession: *NYT Connections*
+- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles.*
 
 
-*Feel free to reach out if you're interested in collaboration, teaching, or just chatting.*
+*Feel free to reach out if you're interested in collaboration.*
