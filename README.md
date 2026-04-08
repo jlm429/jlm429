@@ -31,7 +31,8 @@
 
 ## Profiles
 
-- GitHub: [jlm429](https://github.com/jlm429)  
+- GitHub: [jlm429](https://github.com/jlm429)
+- Hugging Face: [jlm429](https://huggingface.co/jlm429)
 - LinkedIn: [jlm429](https://www.linkedin.com/in/jlm429/)  
 - Email: jm2935@cornell.edu  
 
