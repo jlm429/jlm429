@@ -24,11 +24,7 @@
 
 ## Certifications
 
-- NVIDIA 
-  - Prompt Engineering  
-  - Rapid Application Development  
-  - Building RAG Agents  
-  - Building Agentic AI Applications  
+- NVIDIA DLI (Prompt Engineering, Rapid Application Development, Building RAG Agents, Building Agentic AI Applications)
   
 ## Talks & Teaching
 
