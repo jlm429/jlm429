@@ -22,7 +22,14 @@
   - [`mlrose-hiive`](https://github.com/hiive/mlrose-hiive) - optimization algorithms for machine learning  
   - Other contributions to Python/data science tools and course infrastructure  
 
+## Certifications
 
+- NVIDIA 
+  - Prompt Engineering  
+  - Rapid Application Development  
+  - Building RAG Agents  
+  - Building Agentic AI Applications  
+  
 ## Talks & Teaching
 
 - eCornell (Python, Data Science, Machine Learning, AI)  
