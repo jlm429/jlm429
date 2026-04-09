@@ -17,7 +17,7 @@
   - [`ABAGAIL`](https://github.com/pushkar/ABAGAIL) - Java-based ML toolkit  
     - [Refactored neural network codebase for cleaner, more modular configuration](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/OptNetworkBuilder.java)  
     - [Integrated Prim’s MST implementation to improve dependency modeling in MIMIC optimization](https://github.com/pushkar/ABAGAIL/blob/master/src/util/graph/PrimsMST.java)  
-    - [Developed a full implementation of the Adam optimizer from scratch using Kingma & Ba’s 2014 pseudocode](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
+    - [Implemented Adam optimizer (Kingma & Ba, 2014) for neural network training](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
   - [`mlrose-hiive`](https://github.com/hiive/mlrose-hiive) - optimization algorithms for machine learning  
   - Other contributions to Python/data science tools and course infrastructure  
 
