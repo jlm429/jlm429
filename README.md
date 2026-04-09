@@ -11,8 +11,7 @@
 
 - Maintainer of:  
   - [`bettermdptools`](https://github.com/jlm429/bettermdptools) - planning and reinforcement learning algorithms and environment models for use with Gymnasium  
-  - [`pyperch`](https://github.com/jlm429/pyperch) - randomized optimization neural networks in Python  
-  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - a sandbox for building smarter LLM applications using LangChain, LangGraph, and RAG pipelines
+  - [`pyperch`](https://github.com/jlm429/pyperch) - randomized optimization neural networks in Python
 
 - Contributor to:  
   - [`ABAGAIL`](https://github.com/pushkar/ABAGAIL) - Java-based ML toolkit  
@@ -22,6 +21,10 @@
   - [`mlrose-hiive`](https://github.com/hiive/mlrose-hiive) - optimization algorithms for machine learning  
   - Other contributions to Python/data science tools and course infrastructure  
 
+- Selected Projects: 
+  - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
+  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - a sandbox for building smarter LLM applications using LangChain, LangGraph, and RAG pipelines
+    
 ## Certifications
 
 - NVIDIA DLI (Prompt Engineering, Rapid Application Development, Building RAG Agents, Building Agentic AI Applications)
