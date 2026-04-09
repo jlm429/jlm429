@@ -19,7 +19,7 @@
     - [Integrated Prim’s MST implementation to improve dependency modeling in MIMIC optimization](https://github.com/pushkar/ABAGAIL/blob/master/src/util/graph/PrimsMST.java)  
     - [Implemented Adam optimizer (Kingma & Ba, 2014) for neural network training](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
   - [`mlrose-hiive`](https://github.com/hiive/mlrose) - optimization algorithms for machine learning  
-  - Other contributions to Python/data science tools and course infrastructure  
+  - Other contributions to Python/ML tools and course infrastructure  
 
 - Projects: 
   - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
