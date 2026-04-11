@@ -21,7 +21,8 @@
   - [`mlrose-hiive`](https://github.com/hiive/mlrose) - optimization algorithms for machine learning  
   - Other contributions to Python/ML tools and course infrastructure  
 
-- Projects: 
+ ## Projects
+ 
   - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
   - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - a sandbox for building smarter LLM applications using LangChain, LangGraph, and RAG pipelines
     
