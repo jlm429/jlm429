@@ -7,6 +7,21 @@
 **2005 - 2012** - Software Developer, various roles (education, data-centric applications, open source)  
 **2005** - B.S. in Computer Science, State University of New York at Buffalo  
 
+## Recent Projects
+ 
+  - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
+  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - a sandbox for building smarter LLM applications using LangChain, LangGraph, and RAG pipelines
+    
+## Certifications
+
+- NVIDIA DLI (Prompt Engineering, Rapid Application Development, Building RAG Agents, Building Agentic AI Applications)
+  
+## Talks & Teaching
+
+- eCornell (Python, Data Science, Machine Learning, AI)  
+- Georgia Tech (Machine Learning, Reinforcement Learning, Deep Learning, Agentic AI)  
+- SUNY Broome (C++, OOP)
+  
 ## Open Source Contributions
 
 - Maintainer of:  
@@ -20,21 +35,6 @@
     - [Implemented Adam optimizer (Kingma & Ba, 2014) for neural network training](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
   - [`mlrose-hiive`](https://github.com/hiive/mlrose) - optimization algorithms for machine learning  
   - Other contributions to Python/ML tools and course infrastructure  
-
- ## Projects
- 
-  - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
-  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - a sandbox for building smarter LLM applications using LangChain, LangGraph, and RAG pipelines
-    
-## Certifications
-
-- NVIDIA DLI (Prompt Engineering, Rapid Application Development, Building RAG Agents, Building Agentic AI Applications)
-  
-## Talks & Teaching
-
-- eCornell (Python, Data Science, Machine Learning, AI)  
-- Georgia Tech (Machine Learning, Reinforcement Learning, Deep Learning, Agentic AI)  
-- SUNY Broome (C++, OOP)  
 
 ## Profiles
 
