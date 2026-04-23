@@ -21,6 +21,12 @@
 - eCornell (Python, Data Science, Machine Learning, AI)  
 - Georgia Tech (Machine Learning, Reinforcement Learning, Deep Learning, Agentic AI)  
 - SUNY Broome (C++, OOP)
+
+## Interests
+
+- AI, LLMs, Game Theory, Signaling Games, Cooperative Equilibria, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
+- Mentoring students and early-career professionals  
+- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles.
   
 ## Open Source Contributions
 
@@ -42,12 +48,5 @@
 - Hugging Face: [jlm429](https://huggingface.co/jlm429)
 - LinkedIn: [jlm429](https://www.linkedin.com/in/jlm429/)  
 - Email: jm2935@cornell.edu  
-
-## Interests
-
-- AI, LLMs, Game Theory, Signaling Games, Cooperative Equilibria, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
-- Mentoring students and early-career professionals  
-- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles.
-
 
 *Feel free to reach out if you're interested in collaboration.*
