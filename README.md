@@ -4,7 +4,7 @@
 **09/2024 - now** - Course Facilitator, eCornell (Agentic AI, RAG, ML, Data Science)   
 **01/2025 - now** - Adjunct Instructor, SUNY Broome (C++, Object-oriented programming)  
 **2018** - M.S. in Computer Science, Georgia Institute of Technology  
-**2005 - 2012** - Software Engineer, SUNY Buffalo
+**2005 - 2012** - Software Engineer, SUNY Buffalo 
 **2005** - B.S. in Computer Science, State University of New York at Buffalo  
 
 ## Recent Projects
