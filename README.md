@@ -2,7 +2,7 @@
 
 **09/2024 - now** - Course Facilitator, eCornell (Agentic AI, RAG, ML, Data Science)   
 **01/2025 - now** - Adjunct Instructor, SUNY Broome (C++, Object-oriented programming)  
-**08/2019 - now** - Instructional Associate, Georgia Tech (Graduate Machine Learning, Graduate Reinforcement Learning, NVIDIA Sponsored Training Seminars in Agentic AI and Deep Learning) 
+**08/2019 - now** - Instructional Associate, Georgia Tech (Graduate Machine Learning, Graduate Reinforcement Learning, NVIDIA Sponsored Training Seminars in Agentic AI and Deep Learning)    
 **2014** - **2018** - M.S. in Computer Science, Georgia Institute of Technology  
 **2012 - 2014** - Software Developer, Corning Inc.    
 **2005 - 2012** - Software Engineer, SUNY Buffalo   
