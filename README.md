@@ -12,7 +12,8 @@
  
   - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
   - [`Retro Spreadsheet`](https://github.com/jlm429/retro-spreadsheet) - Retro C++ desktop spreadsheet built using an agents-first approach with model-agnostic AI engineering workflows.
-  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - Agentic design patterns and AI engineering workflows
+  - [`Boomstick`](https://github.com/jlm429/boomstick) - Browser-based FPS built with React Three Fiber, Rapier, and TypeScript.
+  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - Agentic design patterns with langchain and langgraph.
     
 ## Certifications
 
