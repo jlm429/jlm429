@@ -8,13 +8,17 @@
 **2005 - 2012** - Software Engineer, SUNY Buffalo   
 **2005** - B.S. in Computer Science, State University of New York at Buffalo  
 
-## Recent Projects
+## Recent Work
  
   - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
   - [`Earned It`](https://github.com/jlm429/earned-it) - Native iOS family responsibility and allowance tracker built with SwiftUI and SwiftData, using an agent-first development workflow.  
   - [`Boomstick`](https://github.com/jlm429/boomstick) - Browser-based FPS built with React Three Fiber, Rapier, and TypeScript.
   - [`Retro Spreadsheet`](https://github.com/jlm429/retro-spreadsheet) - Retro C++ desktop spreadsheet built using an agents-first approach with model-agnostic AI engineering workflows.
-  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - Agentic design patterns with langchain and langgraph.
+  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - Agentic design patterns with langchain and langgraph.  
+  - The Game Is Working. That's the Problem. - A three-part technical essay series exploring game theory, bad equilibria, coalition failure, and potential mechanisms for maintaining effective coalitions.    
+      - [Part I: Perverse Equilibria, Lock-In, and the Need for Countervailing Coalitions](https://callmeishmael2026.substack.com/p/playing-rationally-losing-collectively?r=8e6djk). 
+      - [Part II: When the Coalition Becomes Part of the Problem](https://callmeishmael2026.substack.com/p/the-greatest-trick-the-devil-ever?r=8e6djk). 
+      - *Part III: Coming soon*
 
     
 ## Certifications
