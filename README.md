@@ -15,7 +15,7 @@
   - [`Boomstick`](https://github.com/jlm429/boomstick) - Browser-based FPS built with React Three Fiber, Rapier, and TypeScript.
   - [`Retro Spreadsheet`](https://github.com/jlm429/retro-spreadsheet) - Retro C++ desktop spreadsheet built using an agents-first approach with model-agnostic AI engineering workflows.
   - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - Agentic design patterns with langchain and langgraph.  
-  - The Game Is Working. That's the Problem. - A three-part technical essay series exploring game theory, bad equilibria, coalition failure, and potential mechanisms for maintaining effective coalitions.    
+  - A three-part technical essay series exploring game theory, bad equilibria, coalition failure, and potential mechanisms for maintaining effective coalitions.    
       - [Part I: Perverse Equilibria, Lock-In, and the Need for Countervailing Coalitions](https://callmeishmael2026.substack.com/p/playing-rationally-losing-collectively?r=8e6djk). 
       - [Part II: When the Coalition Becomes Part of the Problem](https://callmeishmael2026.substack.com/p/the-greatest-trick-the-devil-ever?r=8e6djk). 
       - *Part III: Coming soon*
