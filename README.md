@@ -1,61 +1,98 @@
-## Short CV
+# John Mansfield
 
-**09/2024 - now** - Course Facilitator, eCornell (Agentic AI, RAG, ML, Data Science)   
-**01/2025 - now** - Adjunct Instructor, SUNY Broome (C++, Object-oriented programming)  
-**08/2019 - now** - Instructional Associate, Georgia Tech (Graduate Machine Learning, Graduate Reinforcement Learning, NVIDIA Sponsored Training Seminars in Agentic AI and Deep Learning)    
-**2014** - **2018** - M.S. in Computer Science, Georgia Institute of Technology  
-**2012 - 2014** - Software Developer, Corning Inc.    
-**2005 - 2012** - Software Engineer, SUNY Buffalo   
-**2005** - B.S. in Computer Science, State University of New York at Buffalo  
+**AI Engineer | Agentic Systems | Applied Machine Learning**
 
-## Recent Work
- 
-  - [`LoRA Fine-Tuned LLM (Qwen 3B)`](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo) - a LoRA fine-tuned model with a custom dataset and live demo.
-  - [`Earned It`](https://github.com/jlm429/earned-it) - Native iOS family responsibility and allowance tracker built with SwiftUI and SwiftData, using an agent-first development workflow.  
-  - [`Boomstick`](https://github.com/jlm429/boomstick) - Browser-based FPS built with React Three Fiber, Rapier, and TypeScript.
-  - [`Retro Spreadsheet`](https://github.com/jlm429/retro-spreadsheet) - Retro C++ desktop spreadsheet built using an agents-first approach with model-agnostic AI engineering workflows.
-  - [`backonthelangchain`](https://github.com/jlm429/backonthelangchain) - Agentic design patterns with langchain and langgraph.  
-  - A three-part technical essay series exploring game theory, bad equilibria, coalition failure, and potential mechanisms for maintaining effective coalitions.    
-      - [Part I: Perverse Equilibria, Lock-In, and the Need for Countervailing Coalitions](https://callmeishmael2026.substack.com/p/playing-rationally-losing-collectively?r=8e6djk). 
-      - [Part II: When the Coalition Becomes Part of the Problem](https://callmeishmael2026.substack.com/p/the-greatest-trick-the-devil-ever?r=8e6djk). 
-      - *Part III: Coming soon*
+I'm an AI engineer, software developer, educator, and open-source maintainer working across agentic systems, retrieval-augmented generation, applied machine learning, and reinforcement learning.
 
-    
-## Certifications
+I use AI inside evidence-driven engineering workflows while retaining direct ownership of architecture, instrumentation, debugging, evaluation, and release decisions. My background spans enterprise software, open-source development, graduate computer science education, and hands-on delivery in unfamiliar technical environments.
 
-- NVIDIA DLI (Prompt Engineering, Rapid Application Development, Building RAG Agents, Building Agentic AI Applications)
-  
-## Talks & Teaching
+## Selected Work
 
-- eCornell (Python, Data Science, Machine Learning, AI)  
-- Georgia Tech (Machine Learning, Reinforcement Learning, Deep Learning, Agentic AI)  
-- SUNY Broome (C++, OOP)
+### [Earned It](https://github.com/jlm429/earned-it)
 
-## Interests
+A native iOS family responsibility and allowance app shipped to the Apple App Store. I used an agent-first workflow to enter an unfamiliar ecosystem while retaining human ownership of architecture, validation, debugging, privacy, and release decisions.
 
-- AI, LLMs, Game Theory, Signaling Games, Cooperative Equilibria, Machine Learning, Reinforcement Learning, and Multi-Agent Reinforcement Learning
-- Mentoring students and early-career professionals  
-- Reading, music (piano, guitar), tennis, racquetball, snowboarding, chess, board games, crossword puzzles.
-  
+The app supports multi-device iCloud synchronization, exact-profile invitations, role-based access, offline and recovery flows, and independent Apple accounts without ads, tracking, external accounts, or a custom backend.
+
+### [BackOnTheLangChain](https://github.com/jlm429/backonthelangchain)
+
+Agentic support workflows built with LangGraph and LangChain. The project combines structured LLM routing, grounded generation, deterministic safety gates, source-attributed RAG, vector search, reranking, and observability. An experimental Jev router uses calibrated confidence thresholds and TypeSafe validation for routing and human-escalation decisions, with low-confidence or failed decisions falling back to the existing OpenAI router.
+
+### [BetterMDPTools](https://github.com/jlm429/bettermdptools)
+
+A PyPI-distributed planning and reinforcement learning toolkit for Gymnasium environments. I maintain its algorithms, environment models, modern Python packaging, test suite, optional optimization workflows, and generated API documentation.
+
+### [PyPerch](https://github.com/jlm429/pyperch) and [Birdhouse LoRA Demo](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo)
+
+PyPerch is a PyTorch-native randomized optimization library. The Birdhouse project extends that work into generative AI through a custom dataset, LoRA fine-tuning of a Qwen-based language model, and an interactive Hugging Face demonstration.
+
+### Other Recent Builds
+
+- [Boomstick](https://github.com/jlm429/boomstick), a browser-based FPS built with React Three Fiber, Rapier, and TypeScript
+- [Retro Spreadsheet](https://github.com/jlm429/retro-spreadsheet), a retro C++ desktop spreadsheet built with an agent-first engineering workflow
+
+## Experience
+
+**2019 - Present | Georgia Institute of Technology, Instructional Associate**  
+Provide graduate-level instruction and mentoring across machine learning, reinforcement learning, deep learning, and agentic AI. Manage teaching assistants and maintain course tooling, autograders, cloud infrastructure, and educational platforms. 
+
+**2024 - Present | eCornell, Course Facilitator**  
+Facilitate programs in agentic AI, retrieval-augmented generation, machine learning, and data science for students, staff, and working professionals.
+
+**2025 - Present | SUNY Broome, Adjunct Instructor**  
+Teach C++ and object-oriented programming.
+
+**2014 - 2019 | Graduate Study & Family Care**  
+Completed Georgia Tech's project-intensive MSCS in Machine Learning while raising a family.
+
+**2012 - 2014 | Corning Inc., Software Developer**  
+Developed and supported enterprise Java and SQL applications and integrations. Remediated critical dependency vulnerabilities and validated fixes through testing and security scans.
+
+**2005 - 2012 | University at Buffalo, Software Engineer**  
+Built secure enterprise software, databases, and integrations in HIPAA- and FERPA-regulated environments. Managed student employees and contributed to technical guidance, project coordination, budget planning, and resource allocation.
+
+## Technical Focus
+
+- Agentic software engineering and LLM application architecture
+- Retrieval-augmented generation, vector search, and reranking
+- Structured outputs, safety, guardrails, evaluation, and observability
+- Machine learning and reinforcement learning
+- Python, C++, Java, SQL, PyTorch, scikit-learn, and Gymnasium
+- LangGraph, LangChain, OpenAI APIs, Hugging Face, Pydantic, FAISS, and LangSmith
+- pytest, Poetry, PyPI, Docker, AWS, and Git
+
+## Technical Writing
+
+**Game Theory, Institutional Lock-In, and Coalition Dynamics**
+
+- [Part I: Perverse Equilibria, Lock-In, and the Need for Countervailing Coalitions](https://callmeishmael2026.substack.com/p/playing-rationally-losing-collectively?r=8e6djk)
+- [Part II: When the Coalition Becomes Part of the Problem](https://callmeishmael2026.substack.com/p/the-greatest-trick-the-devil-ever?r=8e6djk)
+
+This series applies non-cooperative and cooperative game theory, Bayesian updating, signaling, and causal reasoning to perverse equilibria, institutional lock-in, and coalition failure.
+
 ## Open Source Contributions
 
-- Maintainer of:  
-  - [`bettermdptools`](https://github.com/jlm429/bettermdptools) - planning and reinforcement learning algorithms and environment models for use with Gymnasium  
-  - [`pyperch`](https://github.com/jlm429/pyperch) - randomized optimization neural networks in Python
+In addition to maintaining BetterMDPTools and PyPerch, I have contributed to:
 
-- Contributor to:  
-  - [`ABAGAIL`](https://github.com/pushkar/ABAGAIL) - Java-based ML toolkit  
-    - [Refactored neural network codebase for cleaner, more modular configuration](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/OptNetworkBuilder.java)  
-    - [Integrated Prim’s MST implementation to improve dependency modeling in MIMIC optimization](https://github.com/pushkar/ABAGAIL/blob/master/src/util/graph/PrimsMST.java)  
-    - [Implemented Adam optimizer (Kingma & Ba, 2014) for neural network training](https://github.com/pushkar/ABAGAIL/blob/master/src/func/nn/backprop/Adam.java)  
-  - [`mlrose-hiive`](https://github.com/hiive/mlrose) - optimization algorithms for machine learning  
-  - Other contributions to Python/ML tools and course infrastructure  
+- [ABAGAIL](https://github.com/pushkar/ABAGAIL), including neural-network configuration improvements, Prim's minimum spanning tree support, and an implementation of the Adam optimizer
+- [mlrose-hiive](https://github.com/hiive/mlrose), an optimization library for machine learning
+- Python, machine learning, and course infrastructure projects
 
-## Profiles
+## Education & Certifications
 
-- GitHub: [jlm429](https://github.com/jlm429)
-- Hugging Face: [jlm429](https://huggingface.co/jlm429)
-- LinkedIn: [jlm429](https://www.linkedin.com/in/jlm429/)  
-- Email: jm2935@cornell.edu  
+- **M.S. in Computer Science, Machine Learning**, Georgia Institute of Technology, 2018
+- **B.S. in Computer Science**, University at Buffalo, 2005
+- **NVIDIA Deep Learning Institute:** Prompt Engineering, Rapid Application Development, Building RAG Agents, and Building Agentic AI Applications
 
-*Feel free to reach out if you're interested in collaboration.*
+## Beyond the Code
+
+I'm interested in game theory, signaling games, cooperative equilibria, and multi-agent reinforcement learning. Away from the keyboard, I enjoy reading, piano, guitar, tennis, racquetball, snowboarding, chess, board games, and crossword puzzles.
+
+## Connect
+
+- [GitHub](https://github.com/jlm429)
+- [Hugging Face](https://huggingface.co/jlm429)
+- [LinkedIn](https://www.linkedin.com/in/jlm429/)
+- [Email](mailto:jlm429@gmail.com)
+
+I'm open to conversations about AI engineering, open-source collaboration, teaching, and applied machine learning.
