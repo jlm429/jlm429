@@ -4,8 +4,6 @@
 
 I'm an AI engineer, software developer, educator, and open-source maintainer working across agentic systems, retrieval-augmented generation, applied machine learning, and reinforcement learning.
 
-I use AI inside evidence-driven engineering workflows while retaining direct ownership of architecture, instrumentation, debugging, evaluation, and release decisions. My background spans enterprise software, open-source development, graduate computer science education, and hands-on delivery in unfamiliar technical environments.
-
 ## Selected Work
 
 ### [Earned It](https://github.com/jlm429/earned-it)
