@@ -49,16 +49,6 @@ Developed and supported enterprise Java and SQL applications and integrations. R
 **2005 - 2012 | University at Buffalo, Software Engineer**  
 Built secure enterprise software, databases, and integrations in HIPAA- and FERPA-regulated environments. Managed student employees and contributed to technical guidance, project coordination, budget planning, and resource allocation.
 
-## Technical Focus
-
-- Agentic software engineering and LLM application architecture
-- Retrieval-augmented generation, vector search, and reranking
-- Structured outputs, safety, guardrails, evaluation, and observability
-- Machine learning and reinforcement learning
-- Python, C++, Java, SQL, PyTorch, scikit-learn, and Gymnasium
-- LangGraph, LangChain, OpenAI APIs, Hugging Face, Pydantic, FAISS, and LangSmith
-- pytest, Poetry, PyPI, Docker, AWS, and Git
-
 ## Technical Writing
 
 **Game Theory, Institutional Lock-In, and Coalition Dynamics**
