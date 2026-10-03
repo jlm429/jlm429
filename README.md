@@ -1,8 +1,10 @@
 # John Mansfield
 
+# Hi, I'm John 👋
+
 **AI Engineer | Agentic Systems | Applied Machine Learning**
 
-I'm an AI engineer, software developer, educator, and open-source maintainer.  
+I'm an AI engineer, software developer, educator, and open-source maintainer focused on building practical AI systems and tools.
 
 ## Selected Work
 
