@@ -2,7 +2,7 @@
 
 **AI Engineer | Agentic Systems | Applied Machine Learning**
 
-I'm an AI engineer, software developer, educator, and open-source maintainer working across agentic systems, retrieval-augmented generation, applied machine learning, and reinforcement learning.
+I'm an AI engineer, software developer, educator, and open-source maintainer.  
 
 ## Selected Work
 
