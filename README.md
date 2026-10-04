@@ -4,10 +4,10 @@
 
 I'm an AI engineer, software developer, educator, and open-source maintainer focused on building practical AI systems and tools.
 
-<a href="https://github.com/jlm429"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" height="22" alt="GitHub" /></a>
-<a href="https://huggingface.co/jlm429"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" height="22" alt="Hugging Face" /></a>
-<a href="https://www.linkedin.com/in/jlm429/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
-<a href="mailto:jlm429@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" height="22" alt="Email" /></a>
+<a href="https://github.com/jlm429"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" height="22" alt="GitHub" /></a>
+<a href="https://huggingface.co/jlm429"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=black" height="22" alt="Hugging Face" /></a>
+<a href="https://www.linkedin.com/in/jlm429/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
+<a href="mailto:jlm429@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" height="22" alt="Email" /></a>
 
 <a href="#selected-work" aria-label="Jump to Selected Work"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
