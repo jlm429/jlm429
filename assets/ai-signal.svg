@@ -15,5 +15,5 @@
       @media (prefers-reduced-motion: reduce) { .motion { animation: none; } }
     </style>
   </defs>
-  <rect class="motion" x="-600" width="1800" height="2" fill="url(#signal)"/>
+  <rect class="motion" x="-600" y="0.9" width="1800" height="0.2" fill="url(#signal)"/>
 </svg>
