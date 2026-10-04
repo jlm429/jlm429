@@ -1,4 +1,4 @@
-# Hi, I'm John 👋
+# Hi, I'm John
 
 **AI Engineer | Agentic Systems | Applied Machine Learning**
 
@@ -10,7 +10,7 @@ I'm an AI engineer, software developer, educator, and open-source maintainer foc
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 ### [Earned It](https://github.com/jlm429/earned-it)
 
@@ -37,15 +37,15 @@ PyPerch is a PyTorch-native randomized optimization library. The Birdhouse proje
 
 ---
 
-## 💼 Experience
+## Experience
 
-**2019 - Present | Georgia Institute of Technology | 🔹 Instructional Associate**
+**2019 - Present | Georgia Institute of Technology | Instructional Associate**
 Provide graduate-level instruction and mentoring across machine learning, reinforcement learning, deep learning, and agentic AI. Manage teaching assistants and maintain course tooling, autograders, cloud infrastructure, and educational platforms. 
 
-**2024 - Present | eCornell | 🔹 Course Facilitator**
+**2024 - Present | eCornell | Course Facilitator**
 Facilitate programs in agentic AI, retrieval-augmented generation, machine learning, and data science for students, staff, and working professionals.
 
-**2025 - Present | SUNY Broome | 🔹 Adjunct Instructor**
+**2025 - Present | SUNY Broome | Adjunct Instructor**
 Teach C++ and object-oriented programming.
 
 **2014 - 2019 | Graduate Study & Family Care**  
@@ -59,7 +59,7 @@ Built secure enterprise software, databases, and integrations in HIPAA- and FERP
 
 ---
 
-## ✍️ Technical Writing
+## Technical Writing
 
 **Game Theory, Institutional Lock-In, and Coalition Dynamics**
 
@@ -70,7 +70,7 @@ This series applies non-cooperative and cooperative game theory, Bayesian updati
 
 ---
 
-## 🌱 Open Source Contributions
+## Open Source Contributions
 
 In addition to maintaining BetterMDPTools and PyPerch, I have contributed to:
 
@@ -80,7 +80,7 @@ In addition to maintaining BetterMDPTools and PyPerch, I have contributed to:
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **M.S. in Computer Science, Machine Learning**, Georgia Institute of Technology, 2018
 - **B.S. in Computer Science**, University at Buffalo, 2005
@@ -88,13 +88,13 @@ In addition to maintaining BetterMDPTools and PyPerch, I have contributed to:
 
 ---
 
-## ♟️ Beyond the Code
+## Beyond the Code
 
 I'm interested in game theory, signaling games, cooperative equilibria, and multi-agent reinforcement learning. Away from the keyboard, I enjoy reading, piano, guitar, tennis, racquetball, snowboarding, chess, board games, and crossword puzzles.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - [GitHub](https://github.com/jlm429)
 - [Hugging Face](https://huggingface.co/jlm429)
