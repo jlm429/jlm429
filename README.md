@@ -6,7 +6,7 @@ I'm an AI engineer, software developer, educator, and open-source maintainer foc
 
 [GitHub](https://github.com/jlm429) · [Hugging Face](https://huggingface.co/jlm429) · [LinkedIn](https://www.linkedin.com/in/jlm429/) · [Email](mailto:jlm429@gmail.com)
 
-<img src="./assets/ai-signal.svg" width="100%" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<img src="./assets/ai-signal.svg" width="100%" height="2" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
 
 ---
 
