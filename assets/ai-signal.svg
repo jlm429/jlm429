@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" role="img" aria-labelledby="title desc" preserveAspectRatio="none">
+  <title id="title">Flowing data signal</title>
+  <desc id="desc">Subtle animated blue, cyan, and purple waves with glowing particles.</desc>
+  <defs>
+    <linearGradient id="blue-wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#2f81f7" stop-opacity="0.72"/>
+      <stop offset="0.78" stop-color="#58a6ff" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cyan-wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d0d8" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#39d0d8" stop-opacity="0.62"/>
+      <stop offset="0.72" stop-color="#56d4dd" stop-opacity="0.62"/>
+      <stop offset="1" stop-color="#56d4dd" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="purple-wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#a371f7" stop-opacity="0.58"/>
+      <stop offset="0.74" stop-color="#bc8cff" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#bc8cff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-250%" y="-250%" width="600%" height="600%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .wave { fill: none; stroke-linecap: round; vector-effect: non-scaling-stroke; }
+      .signal { animation: flow 9s linear infinite; }
+      .signal-slow { animation: flow 13s linear infinite reverse; }
+      .node { filter: url(#glow); transform-box: fill-box; transform-origin: center; animation: pulse 3.2s ease-in-out infinite; }
+      .delay-1 { animation-delay: -0.8s; }
+      .delay-2 { animation-delay: -1.7s; }
+      .delay-3 { animation-delay: -2.5s; }
+      @keyframes flow { to { stroke-dashoffset: -180; } }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; transform: scale(0.75); } 50% { opacity: 0.95; transform: scale(1.15); } }
+      @media (prefers-reduced-motion: reduce) { .signal, .signal-slow, .node { animation: none; } }
+    </style>
+  </defs>
+
+  <g opacity="0.9">
+    <path class="wave signal" d="M-40 55 C100 18 210 84 350 48 S610 18 760 53 S1030 82 1240 39" stroke="url(#blue-wave)" stroke-width="1.5" stroke-dasharray="150 30"/>
+    <path class="wave signal-slow" d="M-40 43 C105 77 235 20 385 51 S650 78 805 42 S1060 21 1240 57" stroke="url(#cyan-wave)" stroke-width="1.25" stroke-dasharray="120 45"/>
+    <path class="wave signal" d="M-40 66 C125 34 245 70 405 38 S690 32 850 64 S1085 70 1240 47" stroke="url(#purple-wave)" stroke-width="1.1" stroke-dasharray="105 55"/>
+  </g>
+
+  <g>
+    <circle class="node" cx="154" cy="43" r="2.4" fill="#39d0d8"/>
+    <circle class="node delay-1" cx="354" cy="48" r="2.6" fill="#58a6ff"/>
+    <circle class="node delay-2" cx="584" cy="38" r="2.2" fill="#a371f7"/>
+    <circle class="node delay-3" cx="806" cy="42" r="2.5" fill="#39d0d8"/>
+    <circle class="node delay-1" cx="1032" cy="58" r="2.3" fill="#58a6ff"/>
+  </g>
+</svg>
