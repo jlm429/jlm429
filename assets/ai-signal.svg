@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 18" role="img" aria-labelledby="title desc" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2" role="img" aria-labelledby="title desc" preserveAspectRatio="none" pointer-events="none">
   <title id="title">Moving color signal</title>
-  <desc id="desc">A thin, straight line with color moving from left to right.</desc>
+  <desc id="desc">A thin gradient bar with color moving from left to right.</desc>
   <defs>
-    <linearGradient id="signal" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="signal" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
       <stop offset="0" stop-color="#58a6ff"/>
       <stop offset="0.25" stop-color="#39d0d8"/>
       <stop offset="0.5" stop-color="#a371f7"/>
@@ -10,13 +10,10 @@
       <stop offset="1" stop-color="#58a6ff"/>
     </linearGradient>
     <style>
-      .track { stroke: #30363d; }
       .motion { animation: travel 5s linear infinite; }
-      @keyframes travel { to { stroke-dashoffset: -1200; } }
-      @media (prefers-color-scheme: light) { .track { stroke: #d0d7de; } }
+      @keyframes travel { to { transform: translateX(600px); } }
       @media (prefers-reduced-motion: reduce) { .motion { animation: none; } }
     </style>
   </defs>
-  <line class="track" x1="0" y1="9" x2="1200" y2="9" stroke-width="1"/>
-  <line class="motion" x1="0" y1="9" x2="1200" y2="9" stroke="url(#signal)" stroke-width="2" stroke-dasharray="260 940"/>
+  <rect class="motion" x="-600" width="1800" height="2" fill="url(#signal)"/>
 </svg>
