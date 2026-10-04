@@ -4,9 +4,12 @@
 
 I'm an AI engineer, software developer, educator, and open-source maintainer focused on building practical AI systems and tools.
 
-[GitHub](https://github.com/jlm429) · [Hugging Face](https://huggingface.co/jlm429) · [LinkedIn](https://www.linkedin.com/in/jlm429/) · [Email](mailto:jlm429@gmail.com)
+<a href="https://github.com/jlm429"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" height="22" alt="GitHub" /></a>
+<a href="https://huggingface.co/jlm429"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" height="22" alt="Hugging Face" /></a>
+<a href="https://www.linkedin.com/in/jlm429/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
+<a href="mailto:jlm429@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" height="22" alt="Email" /></a>
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#selected-work" aria-label="Jump to Selected Work"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Selected Work
 
@@ -33,7 +36,7 @@ PyPerch is a PyTorch-native randomized optimization library. The Birdhouse proje
 - [Boomstick](https://github.com/jlm429/boomstick), a browser-based FPS built with React Three Fiber, Rapier, and TypeScript
 - [Retro Spreadsheet](https://github.com/jlm429/retro-spreadsheet), a retro C++ desktop spreadsheet built with an agent-first engineering workflow
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#experience" aria-label="Jump to Experience"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Experience
 
@@ -55,7 +58,7 @@ Developed and supported enterprise Java and SQL applications and integrations. R
 **2005 - 2012 | University at Buffalo, Software Engineer**  
 Built secure enterprise software, databases, and integrations in HIPAA- and FERPA-regulated environments. Managed student employees and contributed to technical guidance, project coordination, budget planning, and resource allocation.
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#technical-writing" aria-label="Jump to Technical Writing"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Technical Writing
 
@@ -66,7 +69,7 @@ Built secure enterprise software, databases, and integrations in HIPAA- and FERP
 
 This series applies non-cooperative and cooperative game theory, Bayesian updating, signaling, and causal reasoning to perverse equilibria, institutional lock-in, and coalition failure.
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#open-source-contributions" aria-label="Jump to Open Source Contributions"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Open Source Contributions
 
@@ -76,7 +79,7 @@ In addition to maintaining BetterMDPTools and PyPerch, I have contributed to:
 - [mlrose-hiive](https://github.com/hiive/mlrose), an optimization library for machine learning
 - Python, machine learning, and course infrastructure projects
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#education--certifications" aria-label="Jump to Education and Certifications"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Education & Certifications
 
@@ -84,13 +87,13 @@ In addition to maintaining BetterMDPTools and PyPerch, I have contributed to:
 - **B.S. in Computer Science**, University at Buffalo, 2005
 - **NVIDIA Deep Learning Institute:** Prompt Engineering, Rapid Application Development, Building RAG Agents, and Building Agentic AI Applications
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#beyond-the-code" aria-label="Jump to Beyond the Code"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Beyond the Code
 
 I'm interested in game theory, signaling games, cooperative equilibria, and multi-agent reinforcement learning. Away from the keyboard, I enjoy reading, piano, guitar, tennis, racquetball, snowboarding, chess, board games, and crossword puzzles.
 
-<img src="./assets/ai-signal.svg" width="100%" height="3" alt="" draggable="false" style="display: block; pointer-events: none; user-select: none;" />
+<a href="#connect" aria-label="Jump to Connect"><img src="./assets/ai-signal.svg" width="100%" height="4" alt="" draggable="false" /></a>
 
 ## Connect
 
