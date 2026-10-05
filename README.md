@@ -18,7 +18,7 @@ The app supports multi-device iCloud synchronization, exact-profile invitations,
 
 ### [BackOnTheLangChain](https://github.com/jlm429/backonthelangchain)
 
-Agentic support workflows built with LangGraph and LangChain. The project combines structured LLM routing, grounded generation, deterministic safety gates, source-attributed RAG, vector search, reranking, and observability. An experimental Jev router uses calibrated confidence thresholds and TypeSafe validation for routing and human-escalation decisions, with low-confidence or failed decisions falling back to the existing OpenAI router.
+Full-stack AI billing and IT support workflow using Jev for fast System 1-style routing and escalation decisions, System 2-style LLMs for reasoning and response generation, and RAG to inject domain-specific knowledge at request time. Includes system evidence, safety gates, and human escalation, with a Python, FastAPI, and LangGraph backend and a Next.js, React, and TypeScript frontend.
 
 ### [BetterMDPTools](https://github.com/jlm429/bettermdptools)
 
