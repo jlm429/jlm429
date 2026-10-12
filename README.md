@@ -24,13 +24,18 @@ Full-stack AI billing and IT support workflow using Jev for fast System 1-style 
 
 A PyPI-distributed planning and reinforcement learning toolkit for Gymnasium environments. I maintain its algorithms, environment models, modern Python packaging, test suite, optional optimization workflows, and generated API documentation.
 
+### [Boomstick](https://github.com/jlm429/boomstick)
+
+A nostalgic 3D FPS with Doom-inspired shotgun combat, playable directly in a browser on desktop and mobile. Built with React Three Fiber, Rapier, and TypeScript, it brings together real-time rendering, physics simulation, responsive keyboard/mouse and touch controls, browser compatibility, and performance optimization. GitHub Actions automates CI/CD, including validation and GitHub Pages deployment.
+
+**[🎮 Play Boomstick](https://jlm429.github.io/boomstick/)**
+
 ### [PyPerch](https://github.com/jlm429/pyperch) and [Birdhouse LoRA Demo](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo)
 
 PyPerch is a PyTorch-native randomized optimization library. The Birdhouse project extends that work into generative AI through a custom dataset, LoRA fine-tuning of a Qwen-based language model, and an interactive Hugging Face demonstration.
 
 ### Other Recent Builds
 
-- [Boomstick](https://github.com/jlm429/boomstick), a browser-based FPS built with React Three Fiber, Rapier, and TypeScript
 - [Retro Spreadsheet](https://github.com/jlm429/retro-spreadsheet), a retro C++ desktop spreadsheet built with an agent-first engineering workflow
 
 ---
