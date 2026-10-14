@@ -42,16 +42,16 @@ PyPerch is a PyTorch-native randomized optimization library. The Birdhouse proje
 
 ## Selected Writing
 
-**[Why AI Makes Us Anxious](https://callmeishmael2026.substack.com/p/why-ai-makes-us-anxious)**
+### [Why AI Makes Us Anxious](https://callmeishmael2026.substack.com/p/why-ai-makes-us-anxious)
 
 A perspective essay examining AI anxiety through institutional disruption, changing demand for human labor, and uncertainty about machine consciousness.
 
-**Game Theory, Institutional Lock-In, and Coalition Dynamics**
+### Game Theory, Institutional Lock-In, and Coalition Dynamics
+
+This series applies non-cooperative and cooperative game theory, Bayesian updating, signaling, and causal reasoning to perverse equilibria, institutional lock-in, and coalition failure.
 
 - [Part I: Perverse Equilibria, Lock-In, and the Need for Countervailing Coalitions](https://callmeishmael2026.substack.com/p/playing-rationally-losing-collectively?r=8e6djk)
 - [Part II: When the Coalition Becomes Part of the Problem](https://callmeishmael2026.substack.com/p/the-greatest-trick-the-devil-ever?r=8e6djk)
-
-This series applies non-cooperative and cooperative game theory, Bayesian updating, signaling, and causal reasoning to perverse equilibria, institutional lock-in, and coalition failure.
 
 ---
 
