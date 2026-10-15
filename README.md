@@ -16,6 +16,8 @@ A native iOS family responsibility and allowance app shipped to the Apple App St
 
 The app supports multi-device iCloud synchronization, exact-profile invitations, role-based access, offline and recovery flows, and independent Apple accounts without ads, tracking, external accounts, or a custom backend.
 
+**[📱 Earned It on the App Store](https://appstoreconnect.apple.com/apps/6809452728/distribution/ios/version/inflight)**
+
 ### [BackOnTheLangChain](https://github.com/jlm429/backonthelangchain)
 
 Full-stack AI billing and IT support workflow using Jev for fast System 1-style routing and escalation decisions, System 2-style LLMs for reasoning and response generation, and RAG to inject domain-specific knowledge at request time. Includes system evidence, safety gates, and human escalation, with a Python, FastAPI, and LangGraph backend and a Next.js, React, and TypeScript frontend.
