@@ -16,7 +16,7 @@ A native iOS family responsibility and allowance app shipped to the Apple App St
 
 The app supports multi-device iCloud synchronization, exact-profile invitations, role-based access, offline and recovery flows, and independent Apple accounts without ads, tracking, external accounts, or a custom backend.
 
-**[📱 Earned It on the App Store](https://appstoreconnect.apple.com/apps/6809452728/distribution/ios/version/inflight)**
+**[📱 Earned It on the App Store](https://apps.apple.com/us/app/earned-it-chore-tracker/id6809452728)**
 
 ### [BackOnTheLangChain](https://github.com/jlm429/backonthelangchain)
 
