@@ -18,27 +18,31 @@ The app supports multi-device iCloud synchronization, exact-profile invitations,
 
 **[📱 Earned It on the App Store](https://apps.apple.com/us/app/earned-it-chore-tracker/id6809452728)**
 
-### [BackOnTheLangChain](https://github.com/jlm429/backonthelangchain)
-
-Full-stack AI billing and IT support workflow using Jev for fast System 1-style routing and escalation decisions, System 2-style LLMs for reasoning and response generation, and RAG to inject domain-specific knowledge at request time. Includes system evidence, safety gates, and human escalation, with a Python, FastAPI, and LangGraph backend and a Next.js, React, and TypeScript frontend.
-
-### [BetterMDPTools](https://github.com/jlm429/bettermdptools)
-
-A PyPI-distributed planning and reinforcement learning toolkit for Gymnasium environments. I maintain its algorithms, environment models, modern Python packaging, test suite, optional optimization workflows, and generated API documentation.
-
 ### [Boomstick](https://github.com/jlm429/boomstick)
 
 A nostalgic 3D FPS with Doom-inspired shotgun combat, playable directly in a browser on desktop and mobile. Built with React Three Fiber, Rapier, and TypeScript, it brings together real-time rendering, physics simulation, responsive keyboard/mouse and touch controls, browser compatibility, and performance optimization. GitHub Actions automates CI/CD, including validation and GitHub Pages deployment.
 
 **[🎮 Play Boomstick](https://jlm429.github.io/boomstick/)**
 
-### [PyPerch](https://github.com/jlm429/pyperch) and [Birdhouse LoRA Demo](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo)
+### [BackOnTheLangChain](https://github.com/jlm429/backonthelangchain)
 
-PyPerch is a PyTorch-native randomized optimization library. The Birdhouse project extends that work into generative AI through a custom dataset, LoRA fine-tuning of a Qwen-based language model, and an interactive Hugging Face demonstration.
+Full-stack AI billing and IT support workflow using Jev for fast System 1-style routing and escalation decisions, System 2-style LLMs for reasoning and response generation, and RAG to inject domain-specific knowledge at request time. Includes system evidence, safety gates, and human escalation, with a Python, FastAPI, and LangGraph backend and a Next.js, React, and TypeScript frontend.
 
-### Other Recent Builds
+### [Right Model for the Job](https://github.com/jlm429/right-model-for-the-job)
 
-- [Retro Spreadsheet](https://github.com/jlm429/retro-spreadsheet), a retro C++ desktop spreadsheet built with an agent-first engineering workflow
+Reproducible PyTorch experiments comparing CNNs and fine-tuned ResNet-50 on CIFAR-10, alongside a separate zero-shot frontier vision pilot. Explores accuracy, inference latency, cost, and deployment flexibility when choosing task-specific or general-purpose AI models.
+
+### [Birdhouse LoRA Demo](https://huggingface.co/jlm429/birdhouse-in-your-soul-lora-demo)
+
+A LoRA/PEFT fine-tuning demo adapting Qwen2.5-3B-Instruct to a small custom synthetic dataset of structured facts about a fictional Bluebird House. Includes the published adapter and dataset, plus an interactive Hugging Face demonstration of domain-specific question answering and structured responses.
+
+### [BetterMDPTools](https://github.com/jlm429/bettermdptools)
+
+A PyPI-distributed planning and reinforcement learning toolkit for Gymnasium environments. I maintain its algorithms, environment models, modern Python packaging, test suite, optional optimization workflows, and generated API documentation.
+
+### [PyPerch](https://github.com/jlm429/pyperch)
+
+PyPerch is a PyTorch-native randomized optimization library.
 
 ---
 
