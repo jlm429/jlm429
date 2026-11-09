@@ -1,8 +1,8 @@
 # Hi, I'm John 👋
 
-**AI Engineer | Agentic Systems | Applied Machine Learning**
+**AI/ML Engineer | Agentic Systems | Applied Machine Learning**
 
-I'm an AI engineer, software developer, educator, and open-source maintainer focused on building practical AI systems and tools.
+I'm an AI/ML engineer, software developer, educator, and open-source maintainer focused on building practical AI systems and tools.
 
 [GitHub](https://github.com/jlm429) · [Hugging Face](https://huggingface.co/jlm429) · [LinkedIn](https://www.linkedin.com/in/jlm429/) · [Email](mailto:jlm429@gmail.com)
 
