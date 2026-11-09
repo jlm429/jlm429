@@ -44,10 +44,6 @@ PyPerch is a PyTorch-native randomized optimization library. The Birdhouse proje
 
 ## Selected Writing
 
-**Perspective Paper**\
-Examines AI anxiety through institutional disruption, changing demand for human labor, and uncertainty about machine consciousness.\
-[Why AI Makes Us Anxious](https://callmeishmael2026.substack.com/p/why-ai-makes-us-anxious)
-
 **Technical Essays**\
 A two-part series applying non-cooperative and cooperative game theory, Bayesian updating, signaling, and causal reasoning to perverse equilibria, institutional lock-in, and coalition failure.\
 [Part I: Perverse Equilibria, Lock-In, and the Need for Countervailing Coalitions](https://callmeishmael2026.substack.com/p/playing-rationally-losing-collectively?r=8e6djk)\
